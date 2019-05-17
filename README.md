@@ -1,3 +1,5 @@
+Status: Complete 
+
 This is a demo of hibernate code.
 
 Includes:
