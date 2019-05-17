@@ -1,4 +1,4 @@
-This is just a demo of basic hibernate code.
+This is a demo of hibernate code.
 
 Includes:
   1. Hibernate functions - get(),update(),delete(),save()
